@@ -1,4 +1,4 @@
-![logo]("C:\Users\Admin\Downloads\github-header-image.png")
+![logo](C:\Users\Admin\Downloads\github-header-image.png)
 <h1 align="center">Hi 👋, I'm Zeel Makwana</h1>
 <h3 align="center">Exploring and building projects in Data Science and ML.</h3>
 
