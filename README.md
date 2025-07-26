@@ -8,7 +8,7 @@
 
 - I'm currently working on [A new Machine Learning project / Improving my existing projects](https://github.com/Zeelmakwana)
 
-- 💬Ask me about **Advanced Machine Learning concepts, MLOps tools (like Kubernetes/MLflow),Deep Learning frameworks (PyTorch/TensorFlow), Cloud ML services.**
+- 💬Ask me about **Machine Learning concepts, MLOps tools (like Kubernetes/MLflow),Deep Learning frameworks (PyTorch/TensorFlow), Cloud ML services.**
 
 - I'm looking to collaborate on **Open-source ML/Data Science mini-projects**
 
